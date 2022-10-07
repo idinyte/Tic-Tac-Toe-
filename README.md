@@ -1,3 +1,7 @@
-Simple game of Tic-Tac-Toe play in the irb
+Game of Tic-Tac-Toe that can be played versus human or AI.
 
-Try it [Here](https://replit.com/@idinyte/Tic-tac-toe#main.rb)
+# Instructions
+
+Download and run $ ruby main.rb
+
+Or try it [Here](https://replit.com/@idinyte/Tic-tac-toe#main.rb)
